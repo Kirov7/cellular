@@ -1,4 +1,4 @@
 # cellular
-a simple container achieved by Golang
+a simple container achieved by Golang.
 
-This series will be updated in December 2022
+This series will be updated in December 2022.
